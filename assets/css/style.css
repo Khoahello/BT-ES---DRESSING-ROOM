@@ -132,6 +132,24 @@
   z-index: -1;
 }
 
+#thuTopCloth {
+  width: 250px;
+  height: 500px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+#thuBotCloth {
+  width: 250px;
+  height: 500px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
 /* END MODEL */
 
 hr {
