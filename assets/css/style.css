@@ -132,22 +132,23 @@
   z-index: -1;
 }
 
-#thuTopCloth {
+#showTopCloth {
   width: 250px;
   height: 500px;
-  position: absolute;
   top: 0;
   left: 0;
-  z-index: 100;
 }
 
-#thuBotCloth {
+#showBotCloth {
   width: 250px;
   height: 500px;
-  position: absolute;
   top: 0;
   left: 0;
-  z-index: 1;
+}
+
+#showBackground {
+  width: 900px;
+  height: 1500px;
 }
 
 /* END MODEL */

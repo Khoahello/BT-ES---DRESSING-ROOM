@@ -1,68 +1,68 @@
 // Top Cloth
 function thuTopCloth1() {
     document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth1.png" alt="" />
+        <img id="showTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth1.png" alt="" />
     `
 }
 
 function thuTopCloth2() {
     document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth2.png" alt="" />
+        <img id="showTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth2.png" alt="" />
     `
 }
 
 function thuTopCloth3() {
     document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth3.png" alt="" />
+        <img id="showTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth3.png" alt="" />
     `
 }
 
 function thuTopCloth4() {
     document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth4.png" alt="" />
+        <img id="showTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth4.png" alt="" />
     `
 }
 
 function thuTopCloth5() {
     document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth5.png" alt="" />
+        <img id="showTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth5.png" alt="" />
     `
 }
 
 function thuTopCloth6() {
     document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth6.png" alt="" />
+        <img id="showTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth6.png" alt="" />
     `
 }
 
 // Bot Cloth
 function thuBotCloth1() {
     document.getElementById("bikinibottom").innerHTML = /*html*/ `
-        <img id="thuBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth1.png" alt="" />
+        <img id="showBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth1.png" alt="" />
     `
 }
 
 function thuBotCloth2() {
     document.getElementById("bikinibottom").innerHTML = /*html*/ `
-        <img id="thuBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth2.png" alt="" />
+        <img id="showBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth2.png" alt="" />
     `
 }
 
 function thuBotCloth3() {
     document.getElementById("bikinibottom").innerHTML = /*html*/ `
-        <img id="thuBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth3.png" alt="" />
+        <img id="showBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth3.png" alt="" />
     `
 }
 
 function thuBotCloth4() {
     document.getElementById("bikinibottom").innerHTML = /*html*/ `
-        <img id="thuBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth4.png" alt="" />
+        <img id="showBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth4.png" alt="" />
     `
 }
 
 function thuBotCloth5() {
     document.getElementById("bikinibottom").innerHTML = /*html*/ `
-        <img id="thuBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth5.png" alt="" />
+        <img id="showBotCloth" class="bikinibottom" src="../assets/images/clothes/botcloth5.png" alt="" />
     `
 }
 
@@ -156,43 +156,43 @@ function thuHairstyle3() {
 
 // Background
 function thuBackground1() {
-    document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth1.png" alt="" />
+    document.getElementById("background").innerHTML = /*html*/ `
+        <img id="showBackground" src="../assets/images/background/background1.jpg" alt="" />
     `
 }
 
 function thuBackground2() {
-    document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth2.png" alt="" />
+    document.getElementById("background").innerHTML = /*html*/ `
+        <img id="showBackground" src="../assets/images/background/background2.jpg" alt="" />
     `
 }
 
 function thuBackground3() {
-    document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth3.png" alt="" />
+    document.getElementById("background").innerHTML = /*html*/ `
+        <img id="showBackground" src="../assets/images/background/background3.jpg" alt="" />
     `
 }
 
 function thuBackground4() {
-    document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth4.png" alt="" />
+    document.getElementById("background").innerHTML = /*html*/ `
+        <img id="showBackground" src="../assets/images/background/background4.jpg" alt="" />
     `
 }
 
 function thuBackground5() {
-    document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth5.png" alt="" />
+    document.getElementById("background").innerHTML = /*html*/ `
+        <img id="showBackground" src="../assets/images/background/background5.jpg" alt="" />
     `
 }
 
 function thuBackground6() {
-    document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth6.png" alt="" />
+    document.getElementById("background").innerHTML = /*html*/ `
+        <img id="showBackground" src="../assets/images/background/background6.jpg" alt="" />
     `
 }
 
-function thuBackground6() {
-    document.getElementById("bikinitop").innerHTML = /*html*/ `
-        <img id="thuTopCloth" class="bikinitop" src="../assets/images/clothes/topcloth6.png" alt="" />
+function thuBackground7() {
+    document.getElementById("background").innerHTML = /*html*/ `
+        <img id="showBackground" src="../assets/images/background/background7.jpg" alt="" />
     `
 }
